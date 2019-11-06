@@ -3,9 +3,9 @@ android waveview. Draw wave animation by using either bezier curve or a none pau
 
 
 ##ImageWaveView
-    #Í¼Æ¬²¨ÀËÍ¼
-    Í¨¹ı¼ÓÔØÍ¼Æ¬£¬ÎŞÏŞ²»Í£¶ÙÑ­»·»­³öÆäÖĞ²¿·ÖÍ¼ÊµÏÖ²¨ÀË.
-    ¼ÙÈçÊ¹ÓÃ¶¯»­À´×ö£¬»áÔì³ÉÖĞ¼äÍ£¶Ù¡£ËùÒÔÓÃRect»­³öÀ´¡£
+    #å›¾ç‰‡æ³¢æµªå›¾
+    é€šè¿‡åŠ è½½å›¾ç‰‡ï¼Œæ— é™ä¸åœé¡¿å¾ªç¯ç”»å‡ºå…¶ä¸­éƒ¨åˆ†å›¾å®ç°æ³¢æµª.
+    å‡å¦‚ä½¿ç”¨åŠ¨ç”»æ¥åšï¼Œä¼šé€ æˆä¸­é—´åœé¡¿ã€‚æ‰€ä»¥ç”¨Rectç”»å‡ºæ¥ã€‚
 ![ImageViewWave](https://github.com/2666fff/WaveView/blob/master/WaveView/res/raw/imagewaveview.gif?raw=true)
 
 </br></br>
@@ -15,15 +15,11 @@ android waveview. Draw wave animation by using either bezier curve or a none pau
 </br></br>
 
 ##BezierWaveView
-    #±´Èû¶ûÇúÏß²¨ÀËÍ¼
-    ÍêÈ«ÊÇÓÉÂ·¾¶¼ÆËã³öÀ´£¬Í¨¹ıpaint»­±Ê»­³öÀ´¡£
+    #è´å¡å°”æ›²çº¿æ³¢æµªå›¾
+    å®Œå…¨æ˜¯ç”±è·¯å¾„è®¡ç®—å‡ºæ¥ï¼Œé€šè¿‡paintç”»ç¬”ç”»å‡ºæ¥ã€‚
 
 ![BezierWaveView](https://github.com/2666fff/WaveView/blob/master/WaveView/res/raw/bezierwaveview.gif?raw=true)
 
 
 
 ---
-##Èç¹ûÓĞÈÎºÎÎÊÌâ£¬»¶Ó­·´À¡£¡
-* ÓÊ¼ş(fywvzs#qq.com, °Ñ#»»³É@)
-* QQ: 403596261
-
